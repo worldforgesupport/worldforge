@@ -6,9 +6,17 @@ WorldForge es una aplicación de escritorio todo-en-uno diseñada para escritore
 
 ---
 
-## ⬇️ Descargar
+## ⬇️ Descargar WorldForge
 
-👉 **[Descargar la última versión](../../releases/latest)**
+### Plan gratuito
+Todas las funciones de escritura y worldbuilding, sin límite de tiempo.
+
+👉 **[Descargar WorldForge Free](https://worldforge.lemonsqueezy.com/checkout/buy/86104096-a954-4c91-bc0a-8c6564e38aae)**
+
+### Plan Premium ⭐
+Proyectos ilimitados, exportación a EPUB, funciones avanzadas de IA y soporte prioritario.
+
+👉 **[Obtener WorldForge Premium](https://worldforge.lemonsqueezy.com/checkout/buy/65a2b81a-70e9-4380-8de4-9b85c833f96d)**
 
 Disponible para **Windows 10 / 11** (64 bits). No requiere instalación de dependencias adicionales.
 
@@ -28,7 +36,7 @@ Disponible para **Windows 10 / 11** (64 bits). No requiere instalación de depen
 ### Worldbuilding
 - Fichas de **personajes**, **locaciones**, **grupos** y **wiki**
 - Gráfico de relaciones entre personajes interactivo
-- **Subtramas** configurables con carril de color en el timeline
+- **Subtramas** configurables con color e ícono: badge en tarjetas y carril en la línea de tiempo
 - Punto de vista (POV) por escena
 - Calendario del mundo, climas y sistemas de viaje personalizables
 - Mapa interactivo de locaciones con distancias y tiempos de viaje
@@ -80,11 +88,11 @@ Consulta las notas de cada versión en la pestaña **[Releases](../../releases)*
 
 ¿Tienes una pregunta, encontraste un error o tienes una sugerencia?
 
-- 📧 **Correo:** carloscedyep@gmail.com
+- 📧 **Correo:** worldforge.support@gmail.com
 - 🐛 **Reportar un problema:** [Abre un issue](../../issues)
 
 ---
 
 ## 📄 Licencia
 
-WorldForge es software propietario. El instalador se distribuye gratuitamente para uso personal. Se requiere licencia Premium para funciones avanzadas.
+WorldForge es software propietario. El Plan Free se distribuye sin costo para uso personal. El Plan Premium desbloquea funciones avanzadas mediante una licencia de pago.
