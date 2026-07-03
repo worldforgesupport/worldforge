@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="resources/images/Logo.png" alt="WorldForge" width="110">
+
 # WorldForge
 
 ### El espacio de trabajo del escritor de ficción
