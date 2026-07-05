@@ -99,6 +99,15 @@ Sugerencias de personajes y locaciones · Revisión de estilo · Preguntas sobre
 
 ---
 
+## Instalación
+
+1. Descarga el instalador desde la sección [Releases](../../releases/latest)
+2. Ejecuta `WorldForgeSetup-x.x.x.exe`
+3. **Si Windows muestra una advertencia de SmartScreen** ("Windows protegió su PC"), haz clic en **"Más información"** → **"Ejecutar de todas formas"**. WorldForge no tiene firma digital de pago todavía — la advertencia es normal en apps nuevas independientes y desaparece con el tiempo.
+4. Sigue el asistente de instalación
+
+---
+
 ## Requisitos del sistema
 
 Windows 10 / 11 · 64 bits · 4 GB RAM · ~400 MB de almacenamiento · Pantalla 1280 × 720 mínimo
