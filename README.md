@@ -14,7 +14,7 @@
 
 <br>
 
-![Windows](https://img.shields.io/badge/Windows-10%2F11%20·%2064bit-0078D4?style=flat-square&logo=windows&logoColor=white) &nbsp; ![Versión](https://img.shields.io/badge/versión-1.1.0-c9a84c?style=flat-square) &nbsp; ![Licencia](https://img.shields.io/badge/licencia-propietaria-4a4a4a?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-10%2F11%20·%2064bit-0078D4?style=flat-square&logo=windows&logoColor=white) &nbsp; ![Versión](https://img.shields.io/badge/versión-1.0.0-c9a84c?style=flat-square) &nbsp; ![Licencia](https://img.shields.io/badge/licencia-propietaria-4a4a4a?style=flat-square)
 
 </div>
 
@@ -120,13 +120,7 @@ No requiere instalación de dependencias adicionales.
 
 | Versión | Fecha | Destacado |
 |:--|:--|:--|
-| [**1.1.0**](../../releases/tag/v1.1.0) | Jul 2026 | Exportación selectiva de capítulos, importar Markdown, corrector por idioma |
-| [1.0.5](../../releases/tag/v1.0.5) | Jul 2026 | Panel de comentarios estilo Word, validación de fechas, sinónimos ampliados |
-| [1.0.4](../../releases/tag/v1.0.4) | Jul 2026 | Estadísticas del año en el heatmap, gráficos con diseño coherente, IA mejorada |
-| [1.0.3](../../releases/tag/v1.0.3) | Jul 2026 | Heatmap corregido, buscador global mejorado, preguntas a la IA en el editor |
-| [1.0.2](../../releases/tag/v1.0.2) | Jul 2026 | Corkboard, heatmap anual, POV, subtramas con ícono, EPUB |
-| [1.0.1](../../releases/tag/v1.0.1) | Jul 2026 | Gobierno/economía en fichas, tracking de palabras mejorado |
-| [1.0.0](../../releases/tag/v1.0.0) | Jun 2026 | Lanzamiento inicial |
+| [**1.0.0**](../../releases/tag/v1.0.0) | Jul 2026 | Lanzamiento de WorldForge |
 
 ---
 
