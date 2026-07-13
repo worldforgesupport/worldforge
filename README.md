@@ -10,11 +10,11 @@
 
 <br>
 
-[**⬇️&nbsp; Descargar gratis**](https://github.com/worldforgesupport/worldforge/releases/latest) &nbsp;&nbsp;&nbsp; [**⭐&nbsp; Obtener Premium**](https://worldforge.lemonsqueezy.com/checkout/buy/65a2b81a-70e9-4380-8de4-9b85c833f96d)
+[**⬇️ Descargar gratis**](https://github.com/worldforgesupport/worldforge/releases/latest) &nbsp;&nbsp;&nbsp; [**⭐ Obtener Premium**](https://worldforge.lemonsqueezy.com/checkout/buy/65a2b81a-70e9-4380-8de4-9b85c833f96d)
 
 <br>
 
-![Windows](https://img.shields.io/badge/Windows-10%2F11%20·%2064bit-0078D4?style=flat-square&logo=windows&logoColor=white) &nbsp; ![Versión](https://img.shields.io/badge/versión-1.0.0-c9a84c?style=flat-square) &nbsp; ![Licencia](https://img.shields.io/badge/licencia-propietaria-4a4a4a?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-10%2F11%20·%2064bit-0078D4?style=flat-square&logo=windows&logoColor=white) &nbsp; ![Versión](https://img.shields.io/badge/versión-1.1.0-c9a84c?style=flat-square) &nbsp; ![Licencia](https://img.shields.io/badge/licencia-propietaria-4a4a4a?style=flat-square)
 
 </div>
 
@@ -91,7 +91,7 @@ Sugerencias de personajes y locaciones · Revisión de estilo · Preguntas sobre
 
 <div align="center">
 
-[**⭐&nbsp; Obtener WorldForge Premium**](https://worldforge.lemonsqueezy.com/checkout/buy/65a2b81a-70e9-4380-8de4-9b85c833f96d)
+[**⭐ Obtener WorldForge Premium**](https://worldforge.lemonsqueezy.com/checkout/buy/65a2b81a-70e9-4380-8de4-9b85c833f96d)
 
 *Suscripción mensual o anual · Activación instantánea con clave de licencia*
 
@@ -102,9 +102,11 @@ Sugerencias de personajes y locaciones · Revisión de estilo · Preguntas sobre
 ## Instalación
 
 1. Descarga el instalador desde la sección [Releases](../../releases/latest)
-2. Ejecuta `WorldForgeSetup-x.x.x.exe`
-3. **Si Windows muestra una advertencia de SmartScreen** ("Windows protegió su PC"), haz clic en **"Más información"** → **"Ejecutar de todas formas"**. WorldForge no tiene firma digital de pago todavía — la advertencia es normal en apps nuevas independientes y desaparece con el tiempo.
+2. Ejecuta `WorldForgeSetup-1.1.0.exe`
+3. **Si Windows muestra una advertencia de SmartScreen** ("Windows protegió su PC"), haz clic en **"Más información"** → **"Ejecutar de todas formas"**. WorldForge no tiene firma digital de pago todavía — la advertencia es normal en apps nuevas independientes.
 4. Sigue el asistente de instalación
+
+> La app se instala en tu carpeta de usuario (`%LocalAppData%\Programs\WorldForge`) y **no requiere permisos de administrador**.
 
 ---
 
@@ -120,6 +122,7 @@ No requiere instalación de dependencias adicionales.
 
 | Versión | Fecha | Destacado |
 |:--|:--|:--|
+| [**1.1.0**](../../releases/tag/v1.1.0) | Jul 2026 | Actualizador integrado — descarga e instala sin salir de la app · Instalación sin permisos de administrador · Correcciones de navegación en fichas del mapa |
 | [**1.0.0**](../../releases/tag/v1.0.0) | Jul 2026 | Lanzamiento de WorldForge |
 
 ---
